@@ -12,6 +12,7 @@ import babyImage from '.././912FJ13FMGL._AC_SX425_.jpg';
 
 
 const Catagories = () => {
+
 const catagorieses = [
    { name:'Gaming accessories',
    img:keybord},
